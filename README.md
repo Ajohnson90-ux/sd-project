@@ -1,16 +1,20 @@
-# Forum App in React & Redux + Django
+# Tasty Taters App in React & Redux + Django
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+Tasty Taters App, with a frontend built in React & Redux and a backend built in Django API.
+This is an online food menu service for Cj Cafe. When you visit the restaurant, you often use
+the QR code to load the PDF of the menu. It has no image and is not easy to select.
+So we created the menu app where you can see food images with the needed information and select your items easily.
+During such an unprecedented time and social distancing, online menu card technology is a boon!
 ```
 
 ## Live Demo
 
 **This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://techis-wd-forum-django-react-frontend.techisio.repl.co/) here!!
+Check out [FRONTEND LIVE DEMO](https://alishba-tasty-taters.netlify.app/) here!!
 
-Check out [API LIVE DEMO](https://techis-wd-forum-django-react-backend.techisio.repl.co/) here!!
+Check out [API LIVE DEMO](https://tasty-taters-jqej.onrender.com) here!!
 
 ## Tech used
 
@@ -24,7 +28,7 @@ Check out [API LIVE DEMO](https://techis-wd-forum-django-react-backend.techisio.
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/alishbakhan123/Tasty-Taters/
 ```
 
 2. Backend setting
